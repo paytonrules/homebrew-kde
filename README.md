@@ -38,7 +38,7 @@ Compile Qt with D-Bus and Qt3 support. KDE will not work without that.
 
 ```
 brew uninstall qt
-brew install qt --with-d-bus --with-qt3support
+brew install qt --with-qtdbus --with-qt3support
 ```
 
 Install KDE applications
